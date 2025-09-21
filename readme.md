@@ -38,6 +38,16 @@ Dazu wurden die notwendigen **Geheimnisse (Secrets)** wie Passwörter sicher hin
 
 ### 1. Geheimnisse mit `.env`-Datei
 
+Web-App erstellt: 
+<img width="3200" height="2000" alt="image" src="https://github.com/user-attachments/assets/1635deba-d20d-4327-82b0-a18b02d7bfd3" />
+
+Übersicht meines Web-APPs
+<img width="3200" height="1904" alt="image" src="https://github.com/user-attachments/assets/feafb331-a3b7-4870-a6d6-d71860082f61" />
+
+PASSWORD auf Azure:
+<img width="3200" height="1904" alt="image" src="https://github.com/user-attachments/assets/886c0c05-c31f-44b3-90de-28971f69e2e0" />
+
+
 Lokal wurde eine **`.env`-Datei** erstellt, um geheime Zugangsdaten wie Passwörter nicht direkt im Code zu speichern.  
 Beispielinhalt:
 <img width="2048" height="1189" alt="image" src="https://github.com/user-attachments/assets/531d555b-44ae-4251-bd31-b66850b211ef" />
@@ -45,9 +55,6 @@ Beispielinhalt:
    ```env
    PASSWORD=MaxMuster_TheProGrammer*
    Link: kueng-lb324-v2-ccdgedd2f5gdchgh.germanywestcentral-01.azurewebsites.net`
-
-
-
 
 
 
