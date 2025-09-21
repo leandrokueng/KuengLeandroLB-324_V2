@@ -41,12 +41,13 @@ Dazu wurden die notwendigen **Geheimnisse (Secrets)** wie Passwörter sicher hin
 Lokal wurde eine **`.env`-Datei** erstellt, um geheime Zugangsdaten wie Passwörter nicht direkt im Code zu speichern.  
 Beispielinhalt:
 <img width="2048" height="1189" alt="image" src="https://github.com/user-attachments/assets/531d555b-44ae-4251-bd31-b66850b211ef" />
-<img width="2048" height="1280" alt="image" src="https://github.com/user-attachments/assets/e34575a2-ac69-4b94-98a5-ecc51a11b1d5" />
+
+   ```env
+   PASSWORD=MaxMuster_TheProGrammer*
+   Link: kueng-lb324-v2-ccdgedd2f5gdchgh.germanywestcentral-01.azurewebsites.net`
 
 
 
-```env
- PASSWORD=MaxMuster_TheProGrammer*
 
-Link: kueng-lb324-v2-ccdgedd2f5gdchgh.germanywestcentral-01.azurewebsites.net
+
 
