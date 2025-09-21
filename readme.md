@@ -53,9 +53,11 @@ Lokal wurde eine **`.env`-Datei** erstellt, um geheime Zugangsdaten wie Passwör
 Beispielinhalt:
 <img width="2048" height="1189" alt="image" src="https://github.com/user-attachments/assets/531d555b-44ae-4251-bd31-b66850b211ef" />
 
+So sieht meine Seite aus:
+
+<img width="3200" height="2000" alt="image" src="https://github.com/user-attachments/assets/4c42cd2b-f41f-43fe-af84-105883733662" />
+
+
    ```env
    PASSWORD=MaxMuster_TheProGrammer*
-   Link: kueng-lb324-v2-ccdgedd2f5gdchgh.germanywestcentral-01.azurewebsites.net`
-
-
-
+   Link: https://kueng-lb324-v2-ccdgedd2f5gdchgh.germanywestcentral-01.azurewebsites.net/
