@@ -1,16 +1,25 @@
 # LB 324
 
 ## Aufgabe 2
-Erklären Sie hier, wie man `pre-commit` installiert.
 
-In diesem Projekt wird **pre-commit** verwendet, um die Codequalität und Funktionalität sicherzustellen.
+### Pre-commit Hooks (HZ2)
+
+Zur Sicherstellung der Codequalität und der Funktionsfähigkeit werden in diesem Projekt **pre-commit Hooks** eingesetzt.  
+Diese laufen automatisch bei jedem `git commit` und `git push` und verhindern so, dass fehlerhafter oder unformatierter Code in das Repository gelangt.
+
+---
 
 ### Installation (einmalig)
-Führe diese Befehle im Projektordner aus:
-```bash
-pip install pre-commit
-pre-commit install
-pre-commit install -t pre-push
+
+1. Stelle sicher, dass Python und pip installiert sind.
+2. Installiere pre-commit mit:
+   ```bash
+   pip install pre-commit
+
+   pre-commit install
+
+   pre-commit install -t pre-push
+
 
 
 ## Aufgabe 4
