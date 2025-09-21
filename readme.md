@@ -16,8 +16,12 @@ Diese laufen automatisch bei jedem `git commit` und `git push` und verhindern so
    ```bash
    pip install pre-commit
 
+3. Installiere die Commit-Hooks:
+   ```bash
    pre-commit install
 
+4. Installiere zusätzlich die Push-Hooks
+   ```bash
    pre-commit install -t pre-push
 
 
