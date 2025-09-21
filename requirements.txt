@@ -1,4 +1,5 @@
-Flask
-python-dotenv
-pytest
+Flask>=2.3,<3
+pytest>=8
+python-dotenv>=1.0
 gunicorn
+python-dotenv>=1.0
