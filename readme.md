@@ -42,7 +42,8 @@ Web-App erstellt:
 <img width="3200" height="2000" alt="image" src="https://github.com/user-attachments/assets/1635deba-d20d-4327-82b0-a18b02d7bfd3" />
 
 Übersicht meines Web-APPs
-<img width="3200" height="1904" alt="image" src="https://github.com/user-attachments/assets/feafb331-a3b7-4870-a6d6-d71860082f61" />
+<img width="3200" height="1904" alt="image" src="https://github.com/user-attachments/assets/37f27e66-5944-410a-b38a-30058d903a4c" />
+
 
 PASSWORD auf Azure:
 <img width="3200" height="1904" alt="image" src="https://github.com/user-attachments/assets/886c0c05-c31f-44b3-90de-28971f69e2e0" />
