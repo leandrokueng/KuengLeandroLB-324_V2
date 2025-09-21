@@ -1,0 +1,81 @@
+---
+name: anforderungen.yml
+about: Suggest an idea for this project
+title: ''
+labels: ''
+assignees: ''
+
+---
+
+name: Neue Anforderung
+description: Vorlage gemäss LB 324
+title: "[REQ] <kurzer Titel>"
+labels: []
+body:
+  - type: dropdown
+    id: zielsystem
+    attributes:
+      label: Zielsystem
+      options:
+        - "Tagebuch-App – Backend"
+        - "Tagebuch-App – Frontend"
+        - "Infrastruktur/Deployment"
+    validations:
+      required: true
+
+  - type: dropdown
+    id: prioritaet
+    attributes:
+      label: Priorität
+      options:
+        - muss
+        - soll
+        - wird
+    validations:
+      required: true
+
+  - type: dropdown
+    id: systemaktivitaet
+    attributes:
+      label: Systemaktivität
+      options:
+        - "dem Benutzer die Möglichkeit bieten …"
+        - "fähig sein, automatisch …"
+        - "fähig sein, via Schnittstelle …"
+    validations:
+      required: true
+
+  - type: input
+    id: ergaenzungen
+    attributes:
+      label: Ergänzungen
+
+  - type: textarea
+    id: funktionalitaet
+    attributes:
+      label: Funktionalität
+    validations:
+      required: true
+
+  - type: textarea
+    id: bedingungen
+    attributes:
+      label: Bedingungen (wenn/falls)
+
+  - type: textarea
+    id: user_story
+    attributes:
+      label: User Story (optional)
+      description: "Als … möchte ich …, damit … ."
+      value: "Als … möchte ich …, damit … ."
+
+  - type: textarea
+    id: acceptance
+    attributes:
+      label: Abnahmekriterien / Testfälle (given–when–then)
+      placeholder: |
+        given …
+        when …
+        then …
+    validations:
+      required: true
